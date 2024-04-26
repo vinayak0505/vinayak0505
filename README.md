@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vinayak0505
 - 👀 I’m interested in coding in generals 
-- 🌱 I’m currently android
 
 <!---
 vinayak0505/vinayak0505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
